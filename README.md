@@ -1,2 +1,0 @@
-# aeromod
-Aeroinsta.jsom
